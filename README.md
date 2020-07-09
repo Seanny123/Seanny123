@@ -2,7 +2,7 @@
 
 Pronouns: He/Him
 
-I'm punk trained in Electrical Engineering and Theoretical Neuroscience, but now mostly building computery tools for scientists. You can reach me casually via Twitter. I also have [a blog](https://seanaubin.com/) that usually updates once a year.
+I'm a punk trained in Electrical Engineering and Theoretical Neuroscience, but now mostly building computery tools for scientists. You can reach me casually via Twitter. I also have [a blog](https://seanaubin.com/) that usually updates once a year.
 
 ## Employment
 
@@ -18,4 +18,4 @@ I mostly contribute to Python Computational Biology projects, because they have 
 - [Zig](https://ziglang.org/): Replacing C for low-level computation.
 - [OilShell](https://www.oilshell.org/): An upgrade path from Bash to a better shell language.
 - [Julia](https://julialang.org/): Ambitiously overcoming the two-language problem for scientists (using C++ libraries from R or Python) with gradual typing and meta-programming.
-- [Human Systems Design](https://human-systems.org/):
+- [Human Systems Design](https://human-systems.org/): Designing systems (both digital and in-person) which allow for meaningful collaborations.
