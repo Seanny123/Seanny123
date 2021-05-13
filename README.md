@@ -6,7 +6,7 @@ I'm a punk trained in Electrical Engineering and Theoretical Neuroscience, but n
 
 ## Employment
 
-I'm both a Research Engineer at [ProteinQure](https://proteinqure.com/) trying to reduce scientist suffering.
+I'm a Research Engineer at [ProteinQure](https://proteinqure.com/) trying to reduce scientist suffering.
 
 ## Open Source Contributions
 
