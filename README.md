@@ -10,7 +10,7 @@ I'm a Research Engineer at [ProteinQure](https://proteinqure.com/) trying to red
 
 ## Open Source Contributions
 
-I mostly contribute to Computational Biology projects written in Python, because they have a low barrier to entry for me to contribute meaningfully. Additionally, I still do a lot of review for [Nengo](https://www.nengo.ai/)-related projects, since it's a project near and dear to my heart.
+I mostly contribute to Computational Biology projects written in Python, because they have a low barrier to entry for me to participate meaningfully. Additionally, I still do a lot of review for [Nengo](https://www.nengo.ai/)-related projects, since it's a project near and dear to my heart.
 
 ## Computery Interests
 
