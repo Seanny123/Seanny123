@@ -1,6 +1,6 @@
 # Hey! I'm Sean Aubin!
 
-I'm a punk trained in Electrical Engineering and Theoretical Neuroscience, but now mostly building computery tools for scientists. You can reach me casually [via Twitter](https://twitter.com/voyageur_techno). I also have [a blog](https://seanaubin.com/) that usually updates once a year.
+I'm a punk trained in Electrical Engineering and [Theoretical Neuroscience](http://compneuro.uwaterloo.ca/people/sean-aubin.html), but now mostly building computery tools for scientists. You can reach me casually [via Twitter](https://twitter.com/voyageur_techno). I also have [a blog](https://seanaubin.com/) that usually updates once a year.
 
 ## Employment
 
